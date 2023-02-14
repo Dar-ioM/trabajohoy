@@ -1,0 +1,12 @@
+REPORTE DE CANCIONES DEL ARTISTA:  Madonna
+================================================
+
+NOMBRE: Hung Up
+CALIDAD: 128
+PRECIO: 1200.0
+NOMBRE: Get Together
+CALIDAD: 128
+PRECIO: 1200.0
+NOMBRE: Sorry
+CALIDAD: 128
+PRECIO: 1200.0

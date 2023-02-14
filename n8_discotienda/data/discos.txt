@@ -1,0 +1,5 @@
+Reporte de todos los discos de genero Pop o Rock
+================================================
+Nombre: Confessions on a Dance FloorAritista: MadonnaGenero: Pop
+Nombre: Is This ItAritista: The StrokesGenero: Rock
+Nombre: ElephantAritista: The White StripesGenero: Rock
